@@ -1,0 +1,106 @@
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\ApplicationInsights.config
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\roslyn\csc.exe
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\roslyn\System.Collections.Immutable.dll
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\roslyn\System.Reflection.Metadata.dll
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\roslyn\vbc.exe
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\roslyn\VBCSCompiler.exe
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\roslyn\VBCSCompiler.exe.config
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\mvc-project.dll.config
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\mvc-project.dll
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\mvc-project.pdb
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\Microsoft.AI.Agent.Intercept.dll
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\Microsoft.AI.DependencyCollector.dll
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\Microsoft.AI.Web.dll
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\Microsoft.AI.WindowsServer.dll
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\Microsoft.ApplicationInsights.dll
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\Microsoft.Web.Infrastructure.dll
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\System.Web.Helpers.dll
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\System.Web.Mvc.dll
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\System.Web.Razor.dll
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\System.Web.Webpages.Deployment.dll
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\System.Web.Webpages.dll
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\System.Web.Webpages.Razor.dll
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\Microsoft.AI.DependencyCollector.xml
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\Microsoft.AI.Web.xml
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\Microsoft.AI.WindowsServer.xml
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\Microsoft.ApplicationInsights.xml
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\System.Web.Razor.xml
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\System.Web.Webpages.xml
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\System.Web.Webpages.Deployment.xml
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\System.Web.Webpages.Razor.xml
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\System.Web.Helpers.xml
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\System.Web.Mvc.xml
+E:\iti2018\Entity framework\mvc-project\mvc-project\obj\Debug\mvc-project.csprojResolveAssemblyReference.cache
+E:\iti2018\Entity framework\mvc-project\mvc-project\obj\Debug\mvc-project.dll
+E:\iti2018\Entity framework\mvc-project\mvc-project\obj\Debug\mvc-project.pdb
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\EntityFramework.dll
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\EntityFramework.SqlServer.dll
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\EntityFramework.xml
+E:\iti2018\Entity framework\mvc-project\mvc-project\bin\EntityFramework.SqlServer.xml
+E:\iti2018\Entity framework\mvc-project\mvc-project\obj\Debug\mvc_project.Migrations.Initial.resources
+E:\iti2018\Entity framework\mvc-project\mvc-project\obj\Debug\mvc-project.csproj.GenerateResource.Cache
+E:\iti2018\Entity framework\mvc-project\mvc-project\obj\Debug\mvc_project.Migrations.RemoveDepartmentFromEmployee.resources
+E:\iti2018\MVC\mvc-project\mvc-project\bin\ApplicationInsights.config
+E:\iti2018\MVC\mvc-project\mvc-project\bin\roslyn\csc.exe
+E:\iti2018\MVC\mvc-project\mvc-project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\iti2018\MVC\mvc-project\mvc-project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\iti2018\MVC\mvc-project\mvc-project\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\iti2018\MVC\mvc-project\mvc-project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\iti2018\MVC\mvc-project\mvc-project\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\iti2018\MVC\mvc-project\mvc-project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\iti2018\MVC\mvc-project\mvc-project\bin\roslyn\System.Collections.Immutable.dll
+E:\iti2018\MVC\mvc-project\mvc-project\bin\roslyn\System.Reflection.Metadata.dll
+E:\iti2018\MVC\mvc-project\mvc-project\bin\roslyn\vbc.exe
+E:\iti2018\MVC\mvc-project\mvc-project\bin\roslyn\VBCSCompiler.exe
+E:\iti2018\MVC\mvc-project\mvc-project\bin\roslyn\VBCSCompiler.exe.config
+E:\iti2018\MVC\mvc-project\mvc-project\bin\mvc-project.dll.config
+E:\iti2018\MVC\mvc-project\mvc-project\bin\mvc-project.dll
+E:\iti2018\MVC\mvc-project\mvc-project\bin\mvc-project.pdb
+E:\iti2018\MVC\mvc-project\mvc-project\bin\EntityFramework.dll
+E:\iti2018\MVC\mvc-project\mvc-project\bin\EntityFramework.SqlServer.dll
+E:\iti2018\MVC\mvc-project\mvc-project\bin\Microsoft.AI.Agent.Intercept.dll
+E:\iti2018\MVC\mvc-project\mvc-project\bin\Microsoft.AI.DependencyCollector.dll
+E:\iti2018\MVC\mvc-project\mvc-project\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\iti2018\MVC\mvc-project\mvc-project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\iti2018\MVC\mvc-project\mvc-project\bin\Microsoft.AI.Web.dll
+E:\iti2018\MVC\mvc-project\mvc-project\bin\Microsoft.AI.WindowsServer.dll
+E:\iti2018\MVC\mvc-project\mvc-project\bin\Microsoft.ApplicationInsights.dll
+E:\iti2018\MVC\mvc-project\mvc-project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\iti2018\MVC\mvc-project\mvc-project\bin\Microsoft.Web.Infrastructure.dll
+E:\iti2018\MVC\mvc-project\mvc-project\bin\System.Web.Helpers.dll
+E:\iti2018\MVC\mvc-project\mvc-project\bin\System.Web.Mvc.dll
+E:\iti2018\MVC\mvc-project\mvc-project\bin\System.Web.Razor.dll
+E:\iti2018\MVC\mvc-project\mvc-project\bin\System.Web.Webpages.Deployment.dll
+E:\iti2018\MVC\mvc-project\mvc-project\bin\System.Web.Webpages.dll
+E:\iti2018\MVC\mvc-project\mvc-project\bin\System.Web.Webpages.Razor.dll
+E:\iti2018\MVC\mvc-project\mvc-project\bin\EntityFramework.xml
+E:\iti2018\MVC\mvc-project\mvc-project\bin\EntityFramework.SqlServer.xml
+E:\iti2018\MVC\mvc-project\mvc-project\bin\Microsoft.AI.DependencyCollector.xml
+E:\iti2018\MVC\mvc-project\mvc-project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\iti2018\MVC\mvc-project\mvc-project\bin\Microsoft.AI.Web.xml
+E:\iti2018\MVC\mvc-project\mvc-project\bin\Microsoft.AI.WindowsServer.xml
+E:\iti2018\MVC\mvc-project\mvc-project\bin\Microsoft.ApplicationInsights.xml
+E:\iti2018\MVC\mvc-project\mvc-project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\iti2018\MVC\mvc-project\mvc-project\bin\System.Web.Razor.xml
+E:\iti2018\MVC\mvc-project\mvc-project\bin\System.Web.Webpages.xml
+E:\iti2018\MVC\mvc-project\mvc-project\bin\System.Web.Webpages.Deployment.xml
+E:\iti2018\MVC\mvc-project\mvc-project\bin\System.Web.Webpages.Razor.xml
+E:\iti2018\MVC\mvc-project\mvc-project\bin\System.Web.Helpers.xml
+E:\iti2018\MVC\mvc-project\mvc-project\bin\System.Web.Mvc.xml
+E:\iti2018\MVC\mvc-project\mvc-project\obj\Debug\mvc-project.csprojResolveAssemblyReference.cache
+E:\iti2018\MVC\mvc-project\mvc-project\obj\Debug\mvc_project.Migrations.Initial.resources
+E:\iti2018\MVC\mvc-project\mvc-project\obj\Debug\mvc_project.Migrations.RemoveDepartmentFromEmployee.resources
+E:\iti2018\MVC\mvc-project\mvc-project\obj\Debug\mvc-project.csproj.GenerateResource.Cache
+E:\iti2018\MVC\mvc-project\mvc-project\obj\Debug\mvc-project.dll
+E:\iti2018\MVC\mvc-project\mvc-project\obj\Debug\mvc-project.pdb

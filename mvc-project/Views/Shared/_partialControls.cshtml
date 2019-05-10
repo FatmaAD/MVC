@@ -1,0 +1,5 @@
+﻿@model int
+
+@Html.ActionLink("Details", "Details", new { id = @Model }, new { @class = "btn btn-primary btn-sm" })
+@Html.ActionLink("Edit", "Edit", new { id = @Model }, new { @class = "btn btn-success btn-sm" })
+<input type="button" value="Delete" class="btn btn-danger btn-sm" onclick="onDelete(@Model)" />

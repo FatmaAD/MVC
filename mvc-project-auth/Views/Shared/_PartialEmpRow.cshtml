@@ -1,0 +1,14 @@
+﻿
+
+@*@model Employee
+
+<tr id="@Model.Id">
+    <td>@Model.Name</td>
+    <td>@Model.Age</td>
+    <td>@Model.Gender</td>
+    <td>@Model.Department.Name</td>
+    <td>@Model.Salary</td>
+    <td>
+        @Html.Partial("_partialControls", Model.Id)
+    </td>
+</tr>*@

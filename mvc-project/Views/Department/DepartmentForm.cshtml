@@ -1,0 +1,21 @@
+﻿@model  Department
+@{
+    ViewBag.Title = ViewBag.Action;
+}
+
+<h2>@ViewBag.Action Department</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="form-group">
+        <label>Name</label>
+        @Html.TextBoxFor(d => d.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(d => d.Name)
+    </div>
+
+    <input type="submit" value="@ViewBag.Action" class="btn btn-primary" />
+    <a href="/Department/index" class="btn btn-success">Back To List</a>
+}
+
+
+
