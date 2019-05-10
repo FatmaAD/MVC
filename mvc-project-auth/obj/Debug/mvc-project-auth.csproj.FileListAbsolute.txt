@@ -80,5 +80,5 @@ E:\iti2018\MVC\mvc-project\mvc-project-auth\bin\Microsoft.Owin.Security.Microsof
 E:\iti2018\MVC\mvc-project\mvc-project-auth\obj\Debug\mvc-project-auth.csprojResolveAssemblyReference.cache
 E:\iti2018\MVC\mvc-project\mvc-project-auth\obj\Debug\mvc-project-auth.dll
 E:\iti2018\MVC\mvc-project\mvc-project-auth\obj\Debug\mvc-project-auth.pdb
-E:\iti2018\MVC\mvc-project\mvc-project-auth\obj\Debug\mvc_project_auth.Migrations.Initial.resources
+E:\iti2018\MVC\mvc-project\mvc-project-auth\obj\Debug\mvc_project_auth.Migrations.Intiate.resources
 E:\iti2018\MVC\mvc-project\mvc-project-auth\obj\Debug\mvc-project-auth.csproj.GenerateResource.Cache

@@ -7,13 +7,13 @@ namespace mvc_project_auth.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.1.3-40302")]
-    public sealed partial class Initial : IMigrationMetadata
+    public sealed partial class Intiate : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(Initial));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(Intiate));
         
         string IMigrationMetadata.Id
         {
-            get { return "201905091944146_Initial"; }
+            get { return "201905101845530_Intiate"; }
         }
         
         string IMigrationMetadata.Source

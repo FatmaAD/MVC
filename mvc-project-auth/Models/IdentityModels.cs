@@ -22,11 +22,6 @@ namespace mvc_project_auth.Models
         public string FName { get; set; }
         [MaxLength(50)]
         public string LName { get; set; }
-
-        [MaxLength(100)]
-        public string E_mail { get; set; }
-
-
     }
 
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
